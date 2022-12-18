@@ -1,2 +1,2 @@
-# Data-Structures-Reference
-Construction of common data structures 
+# Data-Structures-Constructors
+Construction of common data structures and their methods
