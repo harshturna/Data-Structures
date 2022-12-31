@@ -1,2 +1,2 @@
 # Data-Structures
-Construction of common data structures and their methods
+Constructor and methods of common data structures
